@@ -2,10 +2,10 @@
 Entraînement sur les bases d’internet pour développer les connaissances et de les mettre en pratique.
 
 💁‍♀️👾 Ce projet appréhende les points suivants : 
-1 - Qu’est-ce que l’internet ? 
-   👉 Un navigateur web incontournable 
-   👉 Maintenant naviguons 
-2 - Que pouvez-vous faire en ligne ? 
+1 - Qu’est-ce que l’internet ? <br>
+   👉 Un navigateur web incontournable <br>
+   👉 Maintenant naviguons <br>
+2 - Que pouvez-vous faire en ligne ? <br>
 3 - Connexion à internet 
 4 - Qu’est que le cloud ? 
 5 - Utilisation d’un navigateur web 
